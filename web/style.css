@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    background: #f7f7f7;
+  }
+  
+  label, input {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  button {
+    margin-top: 1rem;
+  }
+  
+  #summary {
+    margin-top: 2rem;
+    background: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
+  }
+  
