@@ -1,6 +1,12 @@
 {
+    "白米": { "calorie": 168, "protein": 2.5, "fat": 0.3, "carb": 37.1 },
     "鶏むね肉": { "calorie": 110, "protein": 23, "fat": 1.5, "carb": 0 },
-    "ごはん": { "calorie": 168, "protein": 2.5, "fat": 0.3, "carb": 37.1 },
-    "卵": { "calorie": 151, "protein": 12.3, "fat": 10.3, "carb": 0.3 }
+    "卵": { "calorie": 151, "protein": 12.3, "fat": 10.3, "carb": 0.3 },
+    "ブロッコリー": { "calorie": 33, "protein": 4.3, "fat": 0.5, "carb": 5.2 },
+    "さけ": { "calorie": 204, "protein": 22.3, "fat": 12.1, "carb": 0.1 },
+    "豆腐": { "calorie": 72, "protein": 6.6, "fat": 4.2, "carb": 1.6 },
+    "牛乳": { "calorie": 67, "protein": 3.3, "fat": 3.8, "carb": 4.8 },
+    "バナナ": { "calorie": 86, "protein": 1.1, "fat": 0.2, "carb": 22.5 },
+    "ごはん": { "calorie": 168, "protein": 2.5, "fat": 0.3, "carb": 37.1 }
   }
   
